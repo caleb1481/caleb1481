@@ -44,11 +44,7 @@ contability
 
 a App of contability of your costs.
 
-Search for Pokémon, explore their data, build your own collection, create teams, manage favorites and save your progress directly in the browser using local storage.
-
-The project is currently being rebuilt with a more advanced stack using React, TypeScript and Node.js, as part of my progression into modern web development.
-
-<a href="https://github.com/EmanuBuque/Pokestation"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111?style=for-the-badge&logo=github&logoColor=c9a84c" alt="View Repository"> </a>
+<a href="https://github.com/caleb1481/Calculo-de-gastos"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111?style=for-the-badge&logo=github&logoColor=ff0000" alt="View Repository"> </a>
 
 
 ### 𝐃𝐞𝐯 𝐌𝐢𝐧𝐝𝐬𝐞𝐭
